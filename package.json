@@ -1,0 +1,21 @@
+{
+  "name": "nazar-yavnyy-json-resume",
+  "version": "1.0.0",
+  "description": "Tool to manage json resume",
+  "scripts": {
+    "dev": "resume serve --theme short",
+    "export": "resume export resume.html --theme short"
+  },
+  "author": "Nazar Yavnyy",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-short": "^0.1.7"
+  },
+  "devDependencies": {
+    "resume-cli": "^3.0.8"
+  },
+  "volta": {
+    "node": "16.18.1",
+    "yarn": "1.22.19"
+  }
+}
