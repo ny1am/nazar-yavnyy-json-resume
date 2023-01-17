@@ -13,9 +13,5 @@
   },
   "devDependencies": {
     "resume-cli": "^3.0.8"
-  },
-  "volta": {
-    "node": "16.18.1",
-    "yarn": "1.22.19"
   }
 }
